@@ -27,12 +27,11 @@ This project explores ride-booking trends, operational metrics, and user behavio
 - `/scripts`: Python and SQL scripts
 - `/dashboard`: Power BI file
 - `/images`: Visual assets for LinkedIn or portfolio
-- `/notebooks`: Jupyter notebook for exploratory analysis
+- `/notebooks`: Google Colab for exploratory analysis
 
 ## 📸 Visuals
 ![Dashboard Overview](images/dashboard_overview.png)
 ![Uber Promo](images/uber_promo.png)
 
-## 📬 Connect
-Feel free to reach out if you'd like to collaborate or discuss analytics-driven mobility solutions!
+
 
